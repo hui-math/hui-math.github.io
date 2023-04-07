@@ -273,7 +273,7 @@ ul.discover-posts li small a {
     color: #777 !important;
 }
 
-
+/*
 @media (prefers-color-scheme: dark) {
     body {
         background-color: #01242e;
@@ -311,7 +311,7 @@ ul.discover-posts li small a {
         color: #aaa;
     }
 }
-
+*/
 
 
 ul.blog-posts {
@@ -331,7 +331,7 @@ hr {
 }
 
 body:hover {
-    border-image: ;
+    border-image: 0;
     border-width: 0;
 }
 
