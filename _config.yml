@@ -30,7 +30,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Build settings
 #theme: no-style-please #minima #jekyll-bear-theme
 # theme: minima
-remote_theme: pages-themes/leap-day@v0.2.0
+remote_theme: knhash/jekyll-bear-theme
 plugins:
   - jekyll-feed
   - jekyll-remote-theme 
