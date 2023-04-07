@@ -12,6 +12,8 @@ Good
 
 ### Test math
 
-$e^{\pi i} + 1 = 0$
+Inline math here $e^{\pi i} + 1 = 0$.
 
-not working ..
+Then test equation
+$$\hat{f}(\xi) = \int e^{-2\pi i x \cdot \xi}f(x) dx.$$
+
