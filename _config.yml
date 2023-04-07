@@ -31,22 +31,22 @@ compress_html:
 #   sass_dir: css
 #   style:    compressed
 
-collections:
-  my_tags:
-    output: true
-    permalink: /tagged/:slug/
-defaults:
-  -
-    scope:
-      path: ""
-      type: my_tags
-    values:
-      layout: tagged
+#collections:
+#  my_tags:
+#    output: true
+#    permalink: /tagged/:slug/
+#defaults:
+#  -
+#    scope:
+#      path: ""
+#      type: my_tags
+#    values:
+#      layout: tagged
 
 # baseurl: ""
-permalink: /blog/:slug
+#permalink: /blog/:slug
 #timezone: America/New_York
-future: false
+#future: false
 
 exclude:
 - README.md
