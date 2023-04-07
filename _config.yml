@@ -7,7 +7,6 @@ description:
 url:  # the base hostname & protocol for your site
 # host: 0.0.0.0
 
-
 #########################
 # more settings
 
@@ -46,14 +45,14 @@ defaults:
 
 # baseurl: ""
 permalink: /blog/:slug
-timezone: America/New_York
+#timezone: America/New_York
 future: false
 
 exclude:
 - README.md
 - LICENSE.md
 
-exclude: [vendor]
+#exclude: [vendor]
 
 Blog: /blog
 
