@@ -4,6 +4,7 @@ title: Hello World
 subtitle: A test of the blogging functionality
 date: 2023-04-07 21:55:00 +0000
 tags: [general]
+katex: true
 ---
 
 ### This is a test
