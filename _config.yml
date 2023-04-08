@@ -17,6 +17,8 @@ whitelist:
   - jekyll-redirect-from
 
 markdown: kramdown
+kramdown: 
+  math_engine: katex
 
 compress_html:
   clippings: all

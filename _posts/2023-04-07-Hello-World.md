@@ -16,5 +16,5 @@ Inline math here $e^{\pi i} + 1 = 0$.
 
 Then test display equation
 
-$\begin{equation}\hat{f}(\xi) = \int e^{-2\pi i x \cdot \xi}f(x) dx.\end{equation}$
+$$\hat{f}(\xi) = \int e^{-2\pi i x \cdot \xi}f(x) dx.$$
 
