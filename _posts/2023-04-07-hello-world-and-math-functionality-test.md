@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hello World
+title: Hello World and Math functionality test
 subtitle: A test of the blogging functionality
 date: 2023-04-07 21:55:00 +0000
 tags: [general]
