@@ -35,23 +35,17 @@
         onload="renderMathInElement(document.body);"></script>
 
     <script>
-          // https://github.com/KaTeX/KaTeX/blob/main/docs/autorender.md
-          document.addEventListener("DOMContentLoaded", function() {
-              renderMathInElement(document.body, {
-                  // customised options
-                  // • auto-render specific keys, e.g.:
-                      delimiters: [
-                      {left: '$$', right: '$$', display: true},
-                      {left: '$', right: '$', display: false},
-                      {left: '\(', right: '\)', display: false},
-                      {left: '\[', right: '\]', display: true},
-                      {left: "\begin{equation}", right: "\end{equation}", display: true},
-                      {left: "\begin{align}", right: "\end{align}", display: true},
-                  ],
-                  // • rendering keys, e.g.:
-                  throwOnError : false
-              });
-          });
+          renderMathInElement(
+              document.body,
+              {
+                  delimiters: [
+                      {left: "$$", right: "$$", display: true},
+                      {left: "\\[", right: "\\]", display: true},
+                      {left: "$", right: "$", display: false},
+                      {left: "\\(", right: "\\)", display: false}
+                  ]
+              }
+          );
     </script>
 </head>
 
