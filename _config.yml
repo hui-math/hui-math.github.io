@@ -1,6 +1,6 @@
 # Basic Site Settings
 locale : "en-US"
-site_theme : "air" # "default", "air", "sunrise", "mint", "dirt"， "contrast"
+site_theme : "air" # "default", "air", "sunrise", "mint", "dirt", "contrast"
 title : "Hui Zhu"
 title_separator : "-"
 name : &name "Hui Zhu"
@@ -30,8 +30,8 @@ author:
   #inspire-hep : # URL
   #impactstory : # URL
   orcid : "https://orcid.org/0000-0003-1716-1807"
-  #semantic         : # URL
-  #ssrn             : # URL
+  #semantic : # URL
+  #ssrn : # URL
   #pubmed : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate : "https://www.researchgate.net/profile/Hui-Zhu-18"
   #scopus: # URL
