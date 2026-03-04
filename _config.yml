@@ -1,50 +1,41 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve -l -H localhost`. If you change this file, please restart the 
-# server process.
-
 # Basic Site Settings
-locale                   : "en-US"
-site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Hui Zhu"
-title_separator          : "-"
-name                     : &name "Hui Zhu"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://hui-math.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
-                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "hui-math/hui-math.github.io"
+locale : "en-US"
+site_theme : "air" # "default", "air", "sunrise", "mint", "dirt"， "contrast"
+title : "Hui Zhu"
+title_separator : "-"
+name : &name "Hui Zhu"
+description : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+url : https://hui-math.github.io
+baseurl : "" # the subpath of your site, e.g. "/blog"
+repository : "hui-math/hui-math.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
-#               If a field is blank the icon and link will not appear, otherwise it will be shown.
-#               Additional customization can be done by editing /_includes/author-profile.html
+# If a field is blank the icon and link will not appear, otherwise it will be shown.
+# Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "hui-paris-profile.png"
-  name             : "Hui Zhu"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Abu Dhabi, UAE"
-  employer         : "New York University Abu Dhabi"
-  uri              : # URL
-  email            : "hui.zhu@nyu.edu" 
+  avatar : "hui-paris-profile.png"
+  name : "Hui Zhu"
+  #pronouns : # example: "she/her"  
+  bio : "Short biography for the left-hand sidebar"
+  location : "Abu Dhabi, UAE"
+  employer : "NYUAD"
+  #uri : # URL
+  email : "hui.zhu@nyu.edu" 
 
   # Academic websites
-  #academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=fq2lGiwAAAAJ"
+  #academia : # URL
+  arxiv : "https://arxiv.org/a/zhu_h_4.html"
+  googlescholar : "https://scholar.google.com/citations?user=fq2lGiwAAAAJ"
   #inspire-hep      : # URL
   #impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0003-1716-1807"
+  orcid : "https://orcid.org/0000-0003-1716-1807"
   #semantic         : # URL
   #ssrn             : # URL
-  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : "https://www.researchgate.net/profile/Hui-Zhu-18"
-  #scopus           : # URL
-  #zotero           : # URL
+  #pubmed : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  researchgate : "https://www.researchgate.net/profile/Hui-Zhu-18"
+  #scopus: # URL
+  #zotero : # URL
 
 
   # Repositories and software development
