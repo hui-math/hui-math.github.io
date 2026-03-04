@@ -17,7 +17,7 @@ author:
   avatar : "hui-paris-profile.png"
   name : "Hui Zhu"
   #pronouns : # example: "she/her"  
-  bio : "Short biography for the left-hand sidebar"
+  bio : "Mathematician specialized in Analysis and PDEs"
   location : "Abu Dhabi, UAE"
   employer : "NYUAD"
   #uri : # URL
@@ -27,8 +27,8 @@ author:
   #academia : # URL
   arxiv : "https://arxiv.org/a/zhu_h_4.html"
   googlescholar : "https://scholar.google.com/citations?user=fq2lGiwAAAAJ"
-  #inspire-hep      : # URL
-  #impactstory      : # URL
+  #inspire-hep : # URL
+  #impactstory : # URL
   orcid : "https://orcid.org/0000-0003-1716-1807"
   #semantic         : # URL
   #ssrn             : # URL
